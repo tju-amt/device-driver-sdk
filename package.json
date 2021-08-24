@@ -1,0 +1,29 @@
+{
+  "name": "@tjuamt/upper",
+  "version": "0.1.0",
+  "description": "A common driver framework to define a EEG device upper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tju-amt/device-driver-sdk.git"
+  },
+  "keywords": [
+    "eeg",
+    "device",
+    "upper-pc"
+  ],
+  "author": "ChaosLee",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "bugs": {
+    "url": "https://github.com/tju-amt/device-driver-sdk/issues"
+  },
+  "homepage": "https://github.com/tju-amt/device-driver-sdk#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "mocha": "^9.0.3"
+  }
+}
